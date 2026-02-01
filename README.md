@@ -45,7 +45,7 @@ Voici quelques outils qui m'accompagnent et me permettent de réaliser projets:
 <p align="left">
 <a href="https://www.autodesk.com/ca-fr/products/fusion-360/overview" target="_blank" rel="noreferrer"><img src="https://images.seeklogo.com/logo-png/48/2/autodesk-fusion-360-logo-png_seeklogo-482400.png" alt="Fusion 360" title="Fusion 360" width="36" height="36" /></a>
 <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=62397" alt="Solidworks" title="Solidworks" width="36" height="36" /></a>
-<a href="https://ultimaker.com/fr/software/ultimaker-cura/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cura.svg" alt="Cura" title="Cura" width="28" height="36" /></a>
+<a href="https://ultimaker.com/fr/software/ultimaker-cura/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cura.svg" alt="Cura" title="Cura" width="36" height="36" /></a>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://download.blender.org/branding/community/blender_community_badge_orange.svg" alt="Blender" title="Blender" width="36" height="36" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
